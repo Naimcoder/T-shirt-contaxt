@@ -1,0 +1,7 @@
+.tshirt-card-container img{
+height: 250px;
+}
+.tshirt-card-container{
+  border: 1px solid #ddd;
+  padding: 20px;
+}
